@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Enduring</title>
+  <link>https://yuexb8628.github.io/enduring-podcast/</link>
+  <description>Famous products and unstoppable businesses, and the companies hiding behind them. Each episode digs into a name you might recognize and tells the story of the business you probably don't, in under fifteen minutes. This show is for entertainment and curiosity only, and nothing here is investment advice.</description>
+  <language>en-US</language>
+  <copyright>Copyright 2026 Enduring</copyright>
+  <atom:link href="https://yuexb8628.github.io/enduring-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Enduring</itunes:author>
+  <itunes:summary>Famous products and unstoppable businesses, and the companies hiding behind them. Each episode digs into a name you might recognize and tells the story of the business you probably don't, in under fifteen minutes. This show is for entertainment and curiosity only, and nothing here is investment advice.</itunes:summary>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:owner>
+    <itunes:name>Enduring</itunes:name>
+    <itunes:email>xiaobang.yue@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://yuexb8628.github.io/enduring-podcast/cover.jpg"/>
+  <itunes:category text="History"/>
+  <itunes:category text="Business"/>
+  <image>
+    <url>https://yuexb8628.github.io/enduring-podcast/cover.jpg</url>
+    <title>Enduring</title>
+    <link>https://yuexb8628.github.io/enduring-podcast/</link>
+  </image>
+  <item>
+    <title>Enduring: Lodge Cast Iron</title>
+    <description>The 130-year-old Tennessee company behind America's most famous skillet: a teenage founder who walked 1,200 miles, the fire that burned it all down, the garden gnomes that saved the Great Depression, and the invention of pre-seasoned cast iron. This show is for entertainment and curiosity only, and nothing here is investment advice.</description>
+    <enclosure url="https://yuexb8628.github.io/enduring-podcast/lodge.mp3" length="5359909" type="audio/mpeg"/>
+    <guid isPermaLink="false">enduring-ep1-lodge</guid>
+    <pubDate>Fri, 14 Aug 2026 00:17:35 +0000</pubDate>
+    <itunes:duration>669</itunes:duration>
+    <itunes:author>Enduring</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://yuexb8628.github.io/enduring-podcast/cover.jpg"/>
+  </item>
+</channel>
+</rss>
