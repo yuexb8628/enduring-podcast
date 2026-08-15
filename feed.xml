@@ -24,6 +24,19 @@
     <link>https://yuexb8628.github.io/enduring-podcast/</link>
   </image>
   <item>
+    <title>EP02: YKK</title>
+    <description>Ninety-two years, one founding family, and roughly half the zippers on Earth. The story of how a small Tokyo workshop beat the zipper's American inventors, built the machines that make the machines, and grew a business most people have never heard of. This show is for entertainment and curiosity only.</description>
+    <enclosure url="https://yuexb8628.github.io/enduring-podcast/ykk.mp3" length="5152165" type="audio/mpeg"/>
+    <guid isPermaLink="false">enduring-ep2-ykk</guid>
+    <pubDate>Fri, 15 Aug 2026 00:15:00 +0000</pubDate>
+    <itunes:duration>644</itunes:duration>
+    <itunes:author>Enduring</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://yuexb8628.github.io/enduring-podcast/cover.jpg"/>
+  </item>
+  <item>
     <title>EP01: Lodge Cast Iron</title>
     <description>The 130-year-old Tennessee company behind America's most famous skillet: a teenage founder who walked 1,200 miles, the fire that burned it all down, the garden gnomes that saved the Great Depression, and the invention of pre-seasoned cast iron. This show is for entertainment and curiosity only, and nothing here is investment advice.</description>
     <enclosure url="https://yuexb8628.github.io/enduring-podcast/lodge.mp3" length="5359909" type="audio/mpeg"/>
