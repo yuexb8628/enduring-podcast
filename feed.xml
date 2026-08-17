@@ -24,6 +24,19 @@
     <link>https://yuexb8628.github.io/enduring-podcast/</link>
   </image>
   <item>
+    <title>EP03: LOWA</title>
+    <description>A century of Bavarian bootmaking: three cobbler brothers who each founded a famous boot company, a brass band that paid for the first machines, war and denazification, a near-collapse in the nineties, and the Italian deal that kept the doors open. This show is for entertainment and curiosity only.</description>
+    <enclosure url="https://yuexb8628.github.io/enduring-podcast/lowa.mp3" length="6645157" type="audio/mpeg"/>
+    <guid isPermaLink="false">enduring-ep3-lowa</guid>
+    <pubDate>Mon, 17 Aug 2026 17:59:01 +0000</pubDate>
+    <itunes:duration>830</itunes:duration>
+    <itunes:author>Enduring</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://yuexb8628.github.io/enduring-podcast/cover.jpg"/>
+  </item>
+  <item>
     <title>EP02: YKK</title>
     <description>Ninety-two years, one founding family, and roughly half the zippers on Earth. The story of how a small Tokyo workshop beat the zipper's American inventors, built the machines that make the machines, and grew a business most people have never heard of. This show is for entertainment and curiosity only.</description>
     <enclosure url="https://yuexb8628.github.io/enduring-podcast/ykk.mp3" length="5192485" type="audio/mpeg"/>
