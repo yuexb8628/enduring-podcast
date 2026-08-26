@@ -24,7 +24,21 @@
     <link>https://yuexb8628.github.io/enduring-podcast/</link>
   </image>
   
-    <item>
+  <item>
+    <title>Lena Blackburne: The Secret Mud Behind Every Baseball</title>
+    <description>Every Major League Baseball used this season was rubbed with the same thing — not a machine, not a factory, but a handful of mud from a secret spot on the Delaware River in New Jersey that only six people outside one family are allowed to know about. How Lena Blackburne found it in 1938, why nothing else works without darkening the ball, and why the smallest supplier in baseball still has a full-time printing press job. From Ray Chapman in 1920 and the end of the dead-ball era to a thousand pounds a year, ten pounds per team, and the experiments that still can't replace it. This show is for entertainment and curiosity only. Nothing you hear on Enduring is investment advice, financial advice, or a recommendation to buy or sell anything. We do one lasting company at a time, fifteen to twenty minutes, no hype.</description>
+    <enclosure url="https://yuexb8628.github.io/enduring-podcast/mud.mp3" length="6640142" type="audio/mpeg"/>
+    <guid isPermaLink="false">enduring-ep6-mud</guid>
+    <pubDate>Tue, 26 Aug 2026 03:39:00 GMT</pubDate>
+    <itunes:duration>663</itunes:duration>
+    <itunes:author>Enduring</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://yuexb8628.github.io/enduring-podcast/cover.jpg"/>
+  </item>
+
+  <item>
     <title>LEGO: The Perfect Brick and the Company That Nearly Lost It</title>
     <description>A carpenter in Billund, three fires, a borrowed brick, and a tolerance of ten microns. How LEGO became the world's default building system, nearly innovated itself out of existence in 2003, and rebuilt by remembering that yesterday, today and tomorrow must connect.</description>
     <enclosure url="https://yuexb8628.github.io/enduring-podcast/lego.mp3" length="14263725" type="audio/mpeg"/>
@@ -38,7 +52,7 @@
     <itunes:image href="https://yuexb8628.github.io/enduring-podcast/cover.jpg"/>
   </item>
 
-<item>
+  <item>
     <title>The Company That Prints Money (But Isn't Allowed to Say Whose)</title>
     <description>A two-hundred-year-old printer from Guernsey that became the world's largest commercial banknote maker — for over a hundred countries, 40+ central banks, 7 billion notes a year — and must never put its name on the product. Wars, cash machines, polymer, and why secrecy is the product.</description>
     <enclosure url="https://yuexb8628.github.io/enduring-podcast/delarue.mp3" length="7689837" type="audio/mpeg"/>
@@ -52,7 +66,7 @@
     <itunes:image href="https://yuexb8628.github.io/enduring-podcast/cover.jpg"/>
   </item>
 
-<item>
+  <item>
     <title>EP03: LOWA</title>
     <description>A century of Bavarian bootmaking: three cobbler brothers who each founded a famous boot company, a brass band that paid for the first machines, war and denazification, a near-collapse in the nineties, and the Italian deal that kept the doors open. This show is for entertainment and curiosity only.</description>
     <enclosure url="https://yuexb8628.github.io/enduring-podcast/lowa.mp3" length="9946789" type="audio/mpeg"/>
