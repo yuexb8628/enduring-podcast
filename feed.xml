@@ -141,5 +141,14 @@ This show is for entertainment and curiosity only. Nothing you hear on Enduring 
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://yuexb8628.github.io/enduring-podcast/cover.jpg"/>
   </item>
-</channel>
+
+    <item>
+      <title>Melitta: The Paper Filter That Changed Coffee</title>
+      <description><![CDATA[How a Dresden housewife's brass cup and blotting paper became a family business that still defines how the world brews coffee. Melitta Bentz's 1908 invention, the razor-and-blades refill model, surviving two World Wars, and the cone filter system that made the brand endure.]]></description>
+      <enclosure url="https://yuexb8628.github.io/enduring-podcast/melitta.mp3" length="6431077" type="audio/mpeg"/>
+      <guid>https://yuexb8628.github.io/enduring-podcast/melitta.mp3</guid>
+      <pubDate>Thu, 03 Sep 2026 05:59:20 GMT</pubDate>
+    </item>
+
+  </channel>
 </rss>
